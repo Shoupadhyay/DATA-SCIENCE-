@@ -12,4 +12,4 @@ the project is currently having the version 1.0
 
 Use this section to tell people how to report a vulnerability.
 
-The update will be uploaded within the aprropiate time frame also all the vulnerabilities are to be reorted on my github account. 
+The update will be uploaded within the aprropiate time frame also all the vulnerabilities are to be reported on my github account. 
